@@ -7,9 +7,24 @@
   text-decoration: none;
 }
 
-
+.container-webapp{
+  background-color: lightsalmon;
+}
 
 /* HEADER */
+
+header{
+  padding-bottom: 50px;
+}
+
+.mini-cont-header{
+  background-color: #4A4A4A;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 5px;
+  color: white;
+  cursor: pointer;
+}
 
 
 /* MAIN */
