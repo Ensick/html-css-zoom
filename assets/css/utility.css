@@ -34,6 +34,10 @@
     height: 100vh;
 }
 
+.vw-100{
+    width: 100vw;
+}
+
 .margin-top-s{
     margin-top: 2rem;
 }
@@ -63,6 +67,10 @@
   
 .p-relative{
     position: relative;
+}
+
+.p-absolute{
+    position: absolute;
 }
 
 .flex{
